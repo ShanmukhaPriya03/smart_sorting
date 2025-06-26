@@ -1,4 +1,4 @@
-# Fresh-Rotten-Fruits-Predictor
+**SMART SORTING**
 --this is a final project assignment-- <br/>
 We create a Tensorflow model to predict the fresh and rotten fruits. By doing so, we hope we can easily separate fresh and rotten fruits from fruit images.
 
@@ -62,8 +62,4 @@ You don't need to install anything since its written in Google Colab which is a 
 ## Built With
 * [Tensorflow Keras](https://www.tensrflow.org) - The AI framework used
 
-## Authors
-* **Ahmad Emir Alfatah**  - [aemiralfath](https://github.com/aemiralfath)
-* **Anggardha Febriano**  - [anggardhanoano](https://github.com/anggardhanoano)
-* **Zahroh Ayu Khumayr**  - [zakhumayr](https://github.com/zakhumayr)
 
